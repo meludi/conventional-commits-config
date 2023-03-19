@@ -110,5 +110,5 @@ $ npm run commit
 [issues-link]: https://github.com/meludi/stylelint-config/issues
 [license-badge]: https://img.shields.io/github/license/meludi/conventional-commits-config
 [license-link]: https://github.com/meludi/conventional-commits-config/blob/main/LICENSE
-[workflow-badge]: https://img.shields.io/github/actions/workflow/status/meludi/conventional-commits-config/ci
+[workflow-badge]: https://img.shields.io/github/actions/workflow/status/meludi/conventional-commits-config/ci.yml
 [workflow-link]: https://github.com/meludi/conventional-commits-config/actions/workflows/ci.yml
